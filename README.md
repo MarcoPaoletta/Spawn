@@ -7,8 +7,9 @@
     * Creo tener la solucion para esto, pero prefiero dejarlo para otro proyecto
 ---
 # Demostracion
-* Estos son todos los datos que se pueden guardar de forma local:
-
+* Estos son todos los datos que se pueden guardar de forma local (en algunas partes se ve mal por culpa del tamaño del archivo): <br>
+   <img heigth=40% width=40% src=https://github.com/MarcoPaoletta/Spawn/blob/master/assets/Demostration.gif>
+---
 # Descargar Godot Engine e importar el proyecto
 
 ## Descargar Godot Engine
